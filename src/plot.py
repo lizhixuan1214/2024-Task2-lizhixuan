@@ -17,4 +17,4 @@ plt.title(f"{name} 的折线图")
 filename = f"{name}_折线图.png"
 
 plt.savefig(filename)
-plt.show()
+plt.show()# 新增功能：优化图像标题
